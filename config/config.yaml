@@ -1,5 +1,5 @@
 # your domain
-domain: example.com
+domain: yeyuws.tk
 #domain: 127.0.0.1
 
 # database dsn(postgresql)
@@ -7,8 +7,8 @@ domain: example.com
 database_url: ""
 
 # cloudflare api
-cf_email: ""
-cf_key: ""
+cf_email: "fang73573999@gmail.com"
+cf_key: "QvpiMYQDZsrvb0Q8gxybtWZ7vB57IOlaDQh9-zhp"
 
 # source definition file
 source-files:
