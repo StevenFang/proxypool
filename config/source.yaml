@@ -7,7 +7,12 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
-
+    
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
+    
 # 网页模糊抓取
 - type: webfuzz
   options:
@@ -24,6 +29,7 @@
   options:
     url: https://fanqiangdang.com/forum-48-1.html
 
-# 某个网站抓取
-- type: web-freessrxyz
+# 订阅链接
+- type: subscribe
   options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
