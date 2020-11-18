@@ -11,6 +11,31 @@
 # 订阅链接
 - type: subscribe
   options:
+    url: https://jiang.netlify.app
+    
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://youlianboshi.netlify.app
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://fforever.github.io/v2rayfree
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://fuckwan73.tk
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub
+
+# 订阅链接
+- type: subscribe
+  options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
     
 # 网页模糊抓取
