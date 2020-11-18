@@ -1,5 +1,5 @@
 # your domain
-domain: domain
+domain: yeyulz.herokuapp.com
 #domain: 127.0.0.1
 
 # database dsn(postgresql)
@@ -13,9 +13,9 @@ cf_key: ""
 # source definition file
 source-files:
   # use local file
-  - ./config/source.yaml
+  #- ./config/source.yaml
   # use web file
-#  - https://example.com/config/source.yaml
+  - https://raw.githubusercontent.com/StevenFang/proxypool/master/config/source.yaml
 
 # speedtest
 speedtest: false  # default false. Warning: this will consume large net resource.
